@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👨‍💻 My portfolio [https://darling-gaufre-25eb5b.netlify.app/home](https://darling-gaufre-25eb5b.netlify.app/home)
+
 - 📫 How to reach me **walidadr95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walideker&show_icons=true&locale=en&layout=compact" alt="walideker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walideker&show_icons=true&locale=en" alt="walideker" /></p>
+
 
