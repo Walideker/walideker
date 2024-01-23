@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm walid adrouch</h1>
-<h3 align="center">frontend web developer</h3>
+<h1 align="center">Hi 👋, I'm Walid Adrouche</h1>
+<h3 align="center">Junior fullstack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walideker&label=Profile%20views&color=0e75b6&style=flat" alt="walideker" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **mongo db**
-
-- 👨‍💻 My portfolio [https://joyful-yeot-d8c3eb.netlify.app/](https://joyful-yeot-d8c3eb.netlify.app/)
+- 🔭 I’m currently working on **improving skills**
 
 - 📫 How to reach me **walidadr95@gmail.com**
 
@@ -26,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walideker&show_icons=true&locale=en&layout=compact" alt="walideker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walideker&show_icons=true&locale=en" alt="walideker" /></p>
+
 
