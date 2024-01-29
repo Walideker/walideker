@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/walid eker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid eker" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/walideker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="walideker" height="30" width="40" /></a>
 <a href="https://fb.com/walid adrouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="walid adrouche" height="30" width="40" /></a>
-<a href="https://instagram.com/walid.eker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walid.eker" height="30" width="40" /></a>
 <a href="https://discord.gg/walideker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="walideker" height="30" width="40" /></a>
 </p>
 
