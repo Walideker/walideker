@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- " This is ain't the end , just a warrior's rest "
 - Comming back sooner ...
 
 - 📫 How to reach me **walidadr95@gmail.com**
